@@ -23,7 +23,7 @@ minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "albertizard.github.io" # This shows at the top bar and in the browser tab
+title                    : "Home" # This shows at the top bar and in the browser tab
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Albert Izard" # I don't know where this is used
@@ -111,7 +111,7 @@ analytics:
 author:
   name             : "Albert Izard" # This shows in the left sidebar
   avatar           : "/assets/images/profile_pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Diving into data to learn things about the Universe (humans included)."
+  bio              : "Using data to learn things about the Universe (humans included)."
   # location         : ""
   email            :
   links:
