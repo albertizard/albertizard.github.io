@@ -27,7 +27,7 @@ title                    : "Home" # This shows at the top bar and in the browser
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Albert Izard" # I don't know where this is used
-description              : "This is my small universe, where I write about data science and astronomy. You may find things about python, machine learning, artificial intelligence, neural networks, classification algorithms..."
+description              : "This is my small universe, where I write about data science and astronomy. You may find things about python, machine learning, artificial intelligence, neural networks, classification algorithms..." # This will show when sharing on social media
 url                      : https://albertizard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : albertizard/my_minimal_mistakes # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
