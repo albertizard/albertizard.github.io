@@ -2,6 +2,8 @@
 layout: home
 author_profile: true
 #title: Welcome
+image: assets/images/distr9-2.png
+
 ---
 
 <!-- To test site locally: bundle exec jekyll serve -->
