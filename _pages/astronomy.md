@@ -8,8 +8,11 @@ defaults:
 path: ""
 type: pages
 values:
-
+header:
+  overlay_image: /assets/images/distr9.png
 title: "Astronomy"
+excerpt: " "
+show_overlay_excerpt: false
 #excerp: "Short summary"
 #categories:
 #  - sql

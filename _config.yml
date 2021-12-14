@@ -14,7 +14,8 @@
 ####  Additions by Albert  ####
 github: [metadata]
 include: ["_pages"]
-header: #/assets/images/distr9-5.png
+header:
+  image: /assets/images/distr9-5.png
 ###############################
 
 
@@ -24,10 +25,10 @@ minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home" # This shows at the top bar and in the browser tab
+title                    : "Albert Izard" # This shows at the top bar and in the browser tab
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Albert Izard" # I don't know where this is used
+name                     : "Albert Izard personal website" # I don't know where this is used
 description              : "This is my small universe, where I write about data science and astronomy. You may find things about python, machine learning, artificial intelligence, neural networks, classification algorithms..." # This will show when sharing on social media
 url                      : https://albertizard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -110,7 +111,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Albert Izard" # This shows in the left sidebar
+  name             : " " # This shows in the left sidebar
   avatar           : "/assets/images/profile_pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Using data to learn things about the Universe (humans included)."
   # location         : ""

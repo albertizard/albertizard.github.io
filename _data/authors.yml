@@ -1,6 +1,6 @@
 # Site Author
 Albert Izard:
-  name             : "Albert Izard" # This shows in the left sidebar
+  name             : " " # This shows in the left sidebar
   avatar           : "/assets/images/profile_pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Using data to learn things about the Universe (humans included)."
   # location         : ""

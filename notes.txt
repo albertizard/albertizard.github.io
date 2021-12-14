@@ -1,10 +1,9 @@
 TODO :
 
 - When sharing webpage on social media there is no image
-- The left sidebar "author" should disappear for blog posts
 - Create a blog tab
 - Spell checking in atom
-
+- Fer collection al home: [About AI, Astronomy, Blog]
 
 NOTES:
 - To change font sizes, edit assets/css/main.scss

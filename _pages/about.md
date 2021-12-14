@@ -10,6 +10,8 @@ type: pages
 values:
 
 title: "About me"
+header:
+  overlay_image: /assets/images/distr9.png
 #excerp: "Short summary"
 #categories:
 #  - sql
