@@ -11,7 +11,7 @@ values:
 
 title: "About me"
 header:
-  overlay_image: /assets/images/distr9.png
+  overlay_image: /assets/images/distr9.jpg
 #excerp: "Short summary"
 #categories:
 #  - sql

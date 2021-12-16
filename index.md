@@ -9,7 +9,7 @@ author_profile: true
 title: "Welcome to my personal website!"
 
 header:
-  overlay_image: /assets/images/distr9.png
+  overlay_image: /assets/images/distr9.jpg
 ---
 
 <!-- To test site locally: bundle exec jekyll serve -->

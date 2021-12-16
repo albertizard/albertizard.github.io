@@ -9,7 +9,7 @@ path: ""
 type: pages
 values:
 header:
-  overlay_image: /assets/images/distr9.png
+  overlay_image: /assets/images/distr9.jpg
 title: "Astronomy"
 excerpt: " "
 show_overlay_excerpt: false
