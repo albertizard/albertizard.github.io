@@ -30,7 +30,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Albert Izard personal website" # I don't know where this is used
 description              : "This is my small universe, where I write about data science and astronomy. You may find things about python, machine learning, artificial intelligence, neural networks, classification algorithms..." # This will show when sharing on social media
-url                      : https://albertizard.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.albertizard.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : albertizard/my_minimal_mistakes # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
