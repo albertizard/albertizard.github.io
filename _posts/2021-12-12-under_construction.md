@@ -14,7 +14,7 @@ author: "Albert Izard"
 date: "12 December 2021"
 author_profile: true
 header:
-  overlay_image: https://images.unsplash.com/photo-1495036019936-220b29b930ea?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80
+  overlay_image: /assets/images/in_construction_unsplash.avif
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 

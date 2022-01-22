@@ -99,7 +99,7 @@ og_image                 : # Open Graph/Twitter default site image
 social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
-  links: https://albertizard.github.io/ # An array of links to social media profiles
+  links: https://www.albertizard.com/ # An array of links to social media profiles
 
 # Analytics
 analytics:
@@ -119,7 +119,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:albertizard @ gmail.com"
+      # url: "mailto:albertizard 'at' albertizard dot com"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   url: "https://albertizard.github.io/"
@@ -145,9 +145,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Website"
+    - label: "HOME"
       icon: "fas fa-fw fa-link"
-      url: "https://albertizard.github.io/"
+      url: "https://www.albertizard.com"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
       # url:
@@ -160,6 +160,9 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: https://www.linkedin.com/in/albertizard/
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:albertizard at albertizard dot com"
     # - label: "GitLab"
     #   icon: "fab fa-fw fa-gitlab"
       # url:
@@ -169,6 +172,9 @@ footer:
     # - label: "Instagram"
     #   icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Privacy Policy"
+      icon: ""
+      url: /terms/
 
 
 # Reading Files

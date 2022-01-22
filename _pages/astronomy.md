@@ -13,6 +13,7 @@ header:
 title: "Astronomy"
 excerpt: " "
 show_overlay_excerpt: false
+toc: false
 #excerp: "Short summary"
 #categories:
 #  - sql

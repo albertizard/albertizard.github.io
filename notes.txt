@@ -4,8 +4,10 @@ TODO :
 - Create a blog tab
 - Spell checking in atom
 - Fer collection al home: [About AI, Astronomy, Blog]
-- Explain lightcones with 4 seasons analogy 
+- Explain lightcones with 4 seasons analogy
 https://image.shutterstock.com/image-photo/four-season-tree-magical-nature-600w-625345199.jpg
 
 NOTES:
 - To change font sizes, edit assets/css/main.scss
+
+- Cookies. Look at mmistakes comment here https://github.com/mmistakes/minimal-mistakes/issues/1867
