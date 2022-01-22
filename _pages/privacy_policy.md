@@ -18,7 +18,7 @@ https://github.com/mmistakes/minimal-mistakes/issues/1867
 
 <h1>Cookies</h1>
 
-The privacy of my visitors is extremely important. This site does not use any third-party cookies, only essential cookies needed to make the website operational. The cookie banner displayed in this website shows  types of cookies that do not exist in this webpage (marketing, analytics). This banner uses a template and to modify it and eliminate these categories in the dialog I need to get a subscription and pay fees, which I do not intend to do.
+The privacy of my visitors is extremely important. This site does NOT use nor permit any third-party cookies, only essential cookies necessary to make the website operational. The cookie banner displayed in this website shows types of cookies that do NOT exist in this webpage (marketing, analytics). This banner uses a template and to modify it and eliminate these categories in the dialog I need to get a subscription and pay fees, which I do not intend to do.
 
 <h1>Privacy Policy</h1>
 <p>This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.</p>
