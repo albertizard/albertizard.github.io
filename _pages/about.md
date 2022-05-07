@@ -27,7 +27,7 @@ header:
 
 I’m a Research Fellow in Cosmology at the [Institute of Cosmology and Gravitation](http://www.icg.port.ac.uk/), in the [University of Portsmouth](https://www.port.ac.uk/).
 
-Prior to this, I was a postdoctoral researcher in cosmology at [Jet Propulsion Laboratory](https://www.jpl.nasa.gov/) / [California Institute of Technology](https://www.astro.caltech.edu/) / [University of California Riverside](https://astro.ucr.edu/). I got my Ph.D. in physics in 2016 at the [Institute of Space Sciences](https://www.ice.csic.es/en/home) in the [Universitat Autònoma de Barcelona](https://www.uab.cat/).
+Prior to this, I was a postdoctoral researcher in cosmology at [NASA Jet Propulsion Laboratory](https://www.jpl.nasa.gov/) / [California Institute of Technology](https://www.astro.caltech.edu/) / [University of California Riverside](https://astro.ucr.edu/). I got my Ph.D. in physics in 2016 at the [Institute of Space Sciences](https://www.ice.csic.es/en/home) in the [Universitat Autònoma de Barcelona](https://www.uab.cat/).
 
 I develop new numerical cosmological simulations in the preparation of future cosmological experiments, that will produce the most accurate maps of the large-scale structure of the Universe. The ultimate goal of these missions is to better understand the properties of the elusive dark matter and dark energy components of the Universe.
 

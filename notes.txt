@@ -1,3 +1,6 @@
+run locally with:
+> bundle exec jekyll serve
+
 TODO :
 
 - When sharing webpage on social media there is no image

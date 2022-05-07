@@ -20,13 +20,6 @@ header:
 
 tagline: "" # overrides the default page excerpt
 
-#header:
-#  overlay_image: img.jpg
-#  overlay_filter: 0.4
-#  caption: ""
-#  cta_label: "Part 1"
-#  cta_url: "https://dashee87.github.io/football/python/predicting-football-results-with-statistical-modelling/"
-
 
 #defaults:
 #  # _posts
