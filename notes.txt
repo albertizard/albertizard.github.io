@@ -5,7 +5,7 @@ TODO :
 
 - When sharing webpage on social media there is no image
 - Create a blog tab
-- Spell checking in atom
+- Spell checking
 - Fer collection al home: [About AI, Astronomy, Blog]
 - Explain lightcones with 4 seasons analogy
 https://image.shutterstock.com/image-photo/four-season-tree-magical-nature-600w-625345199.jpg
