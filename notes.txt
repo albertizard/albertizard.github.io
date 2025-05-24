@@ -14,3 +14,25 @@ NOTES:
 - To change font sizes, edit assets/css/main.scss
 
 - Cookies. Look at mmistakes comment here https://github.com/mmistakes/minimal-mistakes/issues/1867
+
+
+
+
+
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+    a
+    <div class="archive">
+    a2
+    {% unless page.header.overlay_color or page.header.overlay_image %}
+      a3
+      <h1 id="page-title" class="page__title">{{ page.title }}</h1>
+    {% endunless %}
+    {{ content }}
+  </div>
+
+  a4
+  {% include feature_row %}
+
+</div> 
